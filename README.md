@@ -1,2 +1,2 @@
 NixOS konfigürasyonuna kolay ulaşım için oluşturulmuş bir repodur.
-Denendi, hemen hemen onaylandı nokta KOM.
+Denendi, sanal makine kurdu ama mount problemi olduğu için tam işlevsellik bilinmiyor.
