@@ -54,7 +54,8 @@
     };
 
     input = {
-      kb_layout = "tr";
+      kb_layout = "gb";
+      #gb for english (%60 keyboard, tr for TR-Q (%10 keyboard) 
       follow_mouse = 1;
       touchpad = {
         natural_scroll = true;
